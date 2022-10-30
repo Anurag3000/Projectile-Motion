@@ -1,0 +1,23 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Theory}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Problem Statement}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Projectile Motion - An introduction:}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Equation of path of projectile}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Time of maximum height}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Horizontal Range of the projectile}{6}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Differential equation and inclusion of air drag}{6}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Conversion of 2nd order ODEs to simultaneous 1st order ODEs}{7}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Initial values provided to the python program}{8}{subsection.2.8}%
+\contentsline {section}{\numberline {3}Methodology}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}List of tools used}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Numerical Methods, and Algorithms}{9}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Euler Method}{9}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}RK2 Method}{10}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}RK4 Method}{10}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Limitations}{11}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Analysis of Numerical Results}{12}{section.4}%
+\contentsline {section}{\numberline {5}Summary}{17}{section.5}%
+\contentsline {section}{\numberline {A}Programs}{19}{appendix.A}%
+\contentsline {section}{\numberline {B}Calculation of k}{29}{appendix.B}%
+\contentsline {section}{\numberline {C}Contribution of team mates}{31}{appendix.C}%

@@ -1,0 +1,6 @@
+load "EULER trajectory.txt"
+load "RK2 trajectory.txt"
+load "RK4 trajectory.txt"
+load "EULER variation.txt"
+load "RK2 variation.txt"
+load "RK4 variation.txt"

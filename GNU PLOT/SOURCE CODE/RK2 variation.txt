@@ -1,0 +1,15 @@
+set datafile separator ','
+p "rk2VariationWO.csv" every ::2 w lp lw 2 dt 3 title "Without drag", "rk2VariationW.csv" every ::2 w lp lw 2 title "With drag"
+set xlabel "$\\theta (^\\circ)$"
+set ylabel "$x_{max}$ (m)"
+set xtics ("38$^\\circ$" 38, "45$^\\circ$" 45, "45$^\\circ$" 0, "90$^\\circ$" 90, "0$^\\circ$" 0)
+set ytics ("0" 0, "59.72" 59.72, "87.86" 87.86)
+set xrange [0:90]
+set yrange [0:90]
+rep
+set title "RK2: Variation of $x_{max}$ with $\\theta$"
+set terminal epslatex color colortext size 6, 4
+set output "rk2VariationTEX.tex"
+rep
+set output
+set term qt 

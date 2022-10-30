@@ -1,0 +1,10 @@
+set datafile separator ','
+p "rk4Trajectory25.csv" every ::2 title "25$^\\circ$" w l lw 2, "rk4Trajectory30.csv" every ::2 title "30$^\\circ$" w l lw 2,"rk4Trajectory38.csv" every ::2 title "38$^\\circ$" w l lw 2, "rk4Trajectory45.csv" every ::2 title "45$^\\circ$" w l lw 2,"rk4Trajectory50.csv" every ::2 title "50$^\\circ$" w l lw 2
+set xlabel "$x$ m"
+set ylabel "$y$ m"
+set title "RK4: Trajectory of various different launch angles, with drag"
+set terminal epslatex color colortext size 6, 4
+set output "rk4TrajectoryTEX.tex"
+rep
+set output
+set term qt
